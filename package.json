@@ -1,0 +1,82 @@
+{
+	"name": "coffee-color-dark",
+	"displayName": "Coffee Dark Theme",
+	"description": "Inspirate in the product coffee + Color Material ...",
+	"version": "0.4.0",
+	"engines": {
+		"vscode": "^1.51.0"
+	},
+	"publisher": "color-syntax",
+	"author": {
+		"name": "Fred Pizarro"
+	},
+	"icon": "images/skyrider.png",
+	"license": "GPLv3",
+	"homepage": "https://fredpizarro.github.io/#web-dev",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/FredPizarro/coffee-color-dark-syntax"
+	},
+	"bugs": {
+		"url": "https://github.com/FredPizarro/coffee-color-dark/issues"
+	},
+	"keywords": [
+		"Color material",
+		"material",
+		"Coffee color",
+		"minimalistic design",
+		"theme Syntax",
+		"color",
+		"teal",
+		"purple",
+		"indigo",
+		"orange",
+		"brown",
+		"light",
+		"Coffee Dark Theme",
+		"Color Coffee Dark (Purple)"
+	],
+	"categories": [
+		"Themes",
+		"Other"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Color Coffee Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Color Coffee Dark-color-theme.json"
+			},
+			{
+				"label": "Color Coffee Dark (Purple)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Color Coffee_Dark-purple-theme.json"
+			},
+			{
+				"label": "Color Coffee Dark (Indigo)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Color Coffee_Dark-indigo-theme.json"
+			},
+			{
+				"label": "Color Coffee Dark (Orange)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Color Coffee_Dark-orange-theme.json"
+			},
+			{
+				"label": "Color Coffee Dark (Brown)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Color Coffee_Dark-brown-theme.json"
+			},
+			{
+				"label": "Color Coffee Light",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Color-Coffee_Light-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "988708f9-4613-45a8-a2a7-2edfe782f94e",
+		"publisherDisplayName": "SkyRider",
+		"publisherId": "55067796-513b-487e-ba6a-fbadb0fa8504"
+	}
+}

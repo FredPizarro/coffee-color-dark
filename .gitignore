@@ -1,0 +1,15 @@
+node_modules
+*.vsix
+themes/comment.txt
+themes/tach.html
+themes/colors.less
+themes/colors.css
+themes/base.less
+themes/base-light.less
+themes/base-purple.less
+themes/base-indigo.less
+themes/base-orange.less
+themes/base-brown.less
+
+themes/tach.css
+themes/Color-Coffee_Light-color-theme2.json
